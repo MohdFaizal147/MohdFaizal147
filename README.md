@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Faizal</h1>
 <h3 align="center">Aspiring Data analyst from India</h3>
 
-<img align="right" alt="Data Analyst" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Data Analyst" width="500" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 - 🌱 I’m currently learning **Python, SQl, Excel, Power Bi, Data Cleaning etc.**
 - 📫 How to reach me **mfaizal082@mail.com**
